@@ -19,13 +19,13 @@ So `Hello` → `Khoor` with shift 3, and decrypting `Khoor` with shift 3 gives b
 
 ## Features
 
-- ✅ Encrypt any message with a custom shift value (1–25)
-- ✅ Decrypt any Caesar-encrypted message
-- ✅ Preserves spaces, digits, and punctuation unchanged
-- ✅ Preserves original letter casing (upper/lowercase)
-- ✅ Displays a live alphabet cipher map for the chosen shift
-- ✅ Interactive CLI with loop — encrypt/decrypt multiple messages in one session
-- ✅ Clean reusable `caesar_cipher()` function for use as a module
+- Encrypt any message with a custom shift value (1–25)
+- Decrypt any Caesar-encrypted message
+- Preserves spaces, digits, and punctuation unchanged
+- Preserves original letter casing (upper/lowercase)
+- Displays a live alphabet cipher map for the chosen shift
+- Interactive CLI with loop — encrypt/decrypt multiple messages in one session
+- Clean reusable `caesar_cipher()` function for use as a module
 
 ---
 
